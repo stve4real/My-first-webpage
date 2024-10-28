@@ -12,7 +12,7 @@
 
 ## Description
 
-- This browser teaches users on how to deal and _manage_ anger with it arrises, and how it can be destory with by        _maintaining_ *self-contro*!
+- This project teaches users on how to deal and _manage_ anger when it arrises, and how it can be destory by       _maintaining_ *self-contro*!
 
 ## Setup/Installation Requirements!
 
